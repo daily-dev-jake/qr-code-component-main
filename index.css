@@ -1,5 +1,5 @@
 * {
-  background-color: #d5e1ef;
+  background-color: hsl(212, 45%, 89%);
   font-size: 18px;
 }
 
@@ -17,6 +17,7 @@
   border-radius: 2rem;
   width: 20rem;
   height: auto;
+  box-shadow: 0px 3px 13px 1px hsl(220, 15%, 55%);
 }
 
 .bg-container img {
@@ -27,20 +28,22 @@
 }
 h2 {
   font-size: 24px;
+  font-weight: 700;
   background-color: whitesmoke;
   width: 80%;
   margin: 0%;
   padding: 5%;
   text-align:center;
   justify-content: center;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+  font-family: "Outfit", Roboto,
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 p {
   font-size: 16px;
   width: 80%;
+  font-weight: 400;
   margin: 0.5rem 0rem 2rem 0rem;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+  font-family: "Outfit", Roboto,
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   background-color: whitesmoke;
   color: gray;
